@@ -43,8 +43,11 @@
 
 <br/>
 <hr/>
+<div align="center">
+<img alt="Fatih's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=FatihArslan-cmd&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatihArslan-cmd&layout=compact&&langs_count=8"/>
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatihArslan-cmd)](https://github.com/FatihArslan-cmd/github-readme-stats)
 </div>
 
 <br/><br/>
