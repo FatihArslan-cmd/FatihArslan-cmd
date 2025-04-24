@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fatih!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Turkey 🇹🇷</h3>
+<h3 align="center">A passionate software engineer from Turkey 🇹🇷</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on React Native
  
- 🌱 I’m currently learning React Native,Tailwind,Node.js
+ 🌱 I’m currently learning React Native, express.js
 
 💬 Ask me about anything [here](https://github.com/FatihArslan-cmd/FatihArslan-cmd/issues)**
 
