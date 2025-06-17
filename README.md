@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on React Native
  
- 🌱 I’m currently learning React Native, express.js
+ 🌱 I’m currently learning Dart
 
 💬 Ask me about anything [here](https://github.com/FatihArslan-cmd/FatihArslan-cmd/issues)**
 
