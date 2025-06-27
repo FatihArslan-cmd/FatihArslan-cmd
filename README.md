@@ -3,19 +3,12 @@
 </div>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=FatihArslan-cmd.FatihArslan-cmd&left_color=6366f1&right_color=8b5cf6&left_text=Profile%20Views"/>
+  <img src="https://img.shields.io/github/followers/FatihArslan-cmd?style=for-the-badge&color=8b5cf6&labelColor=6366f1"/>
 </div>
 <br>
-
-<h3 align="center">A passionate Software Engineer from Turkey 🇹🇷</h3>
-<br/>
 <div align="center">
-🔭 I'm currently working on React Native
-
-🌱 I'm currently learning Flutter
-
-💬 Ask me about anything [here](https://github.com/FatihArslan-cmd/FatihArslan-cmd/issues)
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+Full+Stack+Developer;📱+React+Native+%26+Flutter;🇹🇷+From+Turkey+with+Code" />
 </div>
-
 <br>
 <br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Tech Stack**
