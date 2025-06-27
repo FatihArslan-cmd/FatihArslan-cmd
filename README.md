@@ -9,7 +9,10 @@
 <br/>
 <div align="center">
 🔭 I'm currently working on React Native
+<br/>
 🌱 I'm currently learning Flutter
+<br/>
+
 💬 Ask me about anything [here](https://github.com/FatihArslan-cmd/FatihArslan-cmd/issues)
 </div>
 <br>
