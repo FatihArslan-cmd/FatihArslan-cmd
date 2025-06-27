@@ -6,7 +6,7 @@
 </div>
 <br>
 <h3 align="center">A passionate Software Engineer from Turkey 🇹🇷</h3>
-<br/>
+
 <div align="center">
 🔭 I'm currently working on React Native
 <br/>
